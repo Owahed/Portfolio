@@ -1,0 +1,116 @@
+/* .work-section {
+  height: 880px !important;
+} */
+.work-headers {
+  margin-left: 5%;
+  text-align: center;
+}
+.work-header {
+  display: inline-block;
+  margin-bottom: 10%;
+  margin-left: -1px;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  font-family: Neuemontreal, sans-serif;
+  color: #fff;
+  font-size: 6.5rem;
+  line-height: 1.1;
+  font-weight: 700;
+  margin-top: 20px;
+  margin: 0.67em 0;
+}
+.work-first-para {
+  display: flex;
+  color: #fff;
+}
+.first-01 {
+  margin: 0 0 0 105px;
+}
+.first-02 {
+  display: inline-block;
+  margin-bottom: 5%;
+  margin-left: -1px;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  font-family: Neuemontreal, sans-serif;
+  color: #fff;
+  font-size: 2.8vw;
+  line-height: 1.25;
+  font-weight: 500;
+  text-align: center;
+}
+.first-para-header {
+  color: #fff;
+  font-size: 22px;
+  line-height: 1.4;
+  font-weight: 400;
+  text-align: left;
+  text-transform: none;
+  max-width: 300px;
+}
+.first-para {
+  opacity: 0.8;
+  max-width: 450px !important;
+  -webkit-box-direction: normal;
+  font-size: 20px !important;
+}
+.role-wrapper {
+  display: block;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+}
+.h4-paragraph {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  font-family: Neuemontreal, sans-serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.2;
+  font-weight: 400;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.text-bolder {
+  font-weight: 700;
+}
+.casestudy-button {
+  margin-left: 8px;
+}
+.rotate-hr {
+  color: #fff;
+  -webkit-transform: rotate(90deg);
+  height: 2px;
+  margin-top: 120px;
+}
+.working-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.working-img img {
+  max-width: 85%;
+}

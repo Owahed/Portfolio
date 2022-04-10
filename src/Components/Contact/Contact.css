@@ -1,0 +1,23 @@
+.contact-page{
+    background-color: #121212;
+    text-align: center;
+}
+.contact-section{
+    width: 99.5%;
+    margin-left: .5%;
+    background-color: #fed43a;
+    padding-top: 10%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.footer{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 50px;
+}
+.contact-section h1{
+    font-size: 38px !important;
+}
+.contact-section p{
+    font-size: 20px;
+    margin-top: 3%;
+    color: #000;
+}

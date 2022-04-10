@@ -1,0 +1,20 @@
+.skills-img-background{
+    background-color: #fed43a ;
+    color: black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+.skill-section{
+    justify-content: center;
+}
+.skills-h2{
+    color:#f9de23;
+}
+.skill-second-section{
+    margin-top: 146px;
+}

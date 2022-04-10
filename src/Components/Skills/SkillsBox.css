@@ -1,0 +1,53 @@
+
+.skills-box-content{
+    padding-top: 10%;
+}
+.skills-box{
+    border: 5px solid #fed43a;
+    background-color:#121212 ;
+    
+}
+.sick-box{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin: 80px;
+    
+
+}
+.tilt{
+    width: 230px ;
+    height: 280px;
+    background: #fed43a !important;
+    border-radius: 20px !important;
+}
+.tilt-header{
+    display: flex;
+    align-items: center;
+    height: 38%;
+}
+.tilt-header img{
+    padding: 8% 4% 8% 0%;
+    align-content: center;
+}
+
+.tilt-bottom{
+    
+    position: relative;
+    -webkit-align-self: flex-start;
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    color: #000;
+    line-height: 1.4;
+    font-weight: 500;
+    text-align: left;
+    margin-bottom: 16px;
+    font-size: 16px;
+    letter-spacing: 0px;
+}
+.javascript-icon{
+    margin-top: -5px;
+}
