@@ -21,3 +21,17 @@
     margin-top: 3%;
     color: #000;
 }
+.contact-area{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.contact-chart{
+    width: 50%;
+    border: 15px solid white;
+    background-color: #121212;
+
+}
+.box{
+    padding: 50px;
+}
