@@ -10,22 +10,22 @@ import "./Main.css";
 const Main = () => {
   return (
     <div className="main">
-      <div className="over-view">
+      <div id="overView" className="over-view ">
         <OverView />
       </div>
-      <div className="working-img">
+      <div id="working" className="working-img">
         <Working />
       </div>
-      <div className="">
+      <div id="skills" className="">
         <Skills />
       </div>
-      <div className="">
+      <div id="skillsBox" className="">
         <SkillsBox />
       </div>
-      <div className="">
+      <div id="aboutMe" className="">
         <AboutMe />
       </div>
-      <div className="">
+      <div id="contact" className="">
         <Contact />
       </div>
     </div>

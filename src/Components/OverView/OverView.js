@@ -18,7 +18,7 @@ const OverView = () => {
             databases for website functionality and coding for mobile platforms.
           </p>
           <div className="higher-a ">
-            <a href="#" className="reach-out-to-me-button">
+            <a href="#aboutMe" className="reach-out-to-me-button">
               Reach Out To Me
             </a>
           </div>
@@ -27,7 +27,7 @@ const OverView = () => {
       <div className="over-view-img second-content">
         <div>
           <img src={computer} alt="my computer" />
-          <a href="#" className="reach-out-to-me-button my-work">
+          <a href="#working" className="reach-out-to-me-button my-work">
             See My Work
           </a>
         </div>
